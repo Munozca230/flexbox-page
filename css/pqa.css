@@ -1,0 +1,56 @@
+#main_pqa{
+    display: flex;
+}
+
+.sec1_pqa{
+    height: 900px;
+    width: 50%;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.sec1_pqa div{
+    width: 600px;
+    height: 300px;
+    margin: 20px;
+}
+
+.div-pqa1{
+    background-image: url(https://www.iberdrola.com/documents/20125/39802/Mascotas_746x419.jpg/091c3a08-9270-8476-3534-7426d0b4c245?t=1626339906435);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.div-pqa2{
+    background-image: url(https://img.huffingtonpost.com/asset/5fec98c426000017057a3581.jpeg?ops=1200_630);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.div-pqa3{
+    background-image: url(https://cloudfront-us-east-1.images.arcpublishing.com/semana/BDTT44Z2TJELZL7CP5UHKLEBDI.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.sec2_pqa{
+    height: 900px;
+    width: 50%;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px 30px;
+    font-size: 20px;   
+
+}
+
+.sec2_pqa h3{
+    color: rgb(0, 102, 0);
+}

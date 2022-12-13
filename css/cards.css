@@ -1,0 +1,64 @@
+
+h1{    
+    text-align: center;
+    margin: 20px;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.sect-cards{
+    justify-content: center;
+}
+
+.div-card{
+    border-radius: 45px;
+    display: flex;
+    margin: 20px;
+    text-align: center;
+    overflow: hidden;
+} 
+
+.div-card-info{
+    display: flex;
+    flex-direction: column;
+    background-color: transparent;
+}
+
+.div-card1{
+    background: linear-gradient(331deg, rgba(176,248,200,1) 40%, rgba(238,173,135,1) 100%);
+}
+.div-card2{
+    background: linear-gradient(331deg, rgba(176,248,200,1) 40%, rgba(150,135,238,1) 100%);
+}
+.div-card3{
+    background: linear-gradient(331deg, rgba(176,248,200,1) 40%, rgba(238,135,163,1) 100%);
+}
+.div-card4{
+    background: linear-gradient(331deg, rgba(176,248,200,1) 40%, rgba(238,232,135,1) 100%);
+}
+.div-card5{
+    background: linear-gradient(331deg, rgba(176,248,200,1) 40%, rgba(238,173,135,1) 100%);
+}
+
+.div-card img{
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 6px solid rgb(255, 255, 255);
+    border-color: transparent rgb(255, 255, 255);
+}
+
+.div-card-info p{
+    font-size: 25px;
+    margin: 10px;
+    text-align: center;
+}
+
+.div-card-info h2{
+    font-size: 40px;   
+    margin-top: 65px;
+}
+
+
